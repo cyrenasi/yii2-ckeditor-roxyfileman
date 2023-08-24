@@ -11,7 +11,7 @@ use yii\base\InvalidParamException;
 /**
  * {@inheritDoc}
  */
-class Module extends \navatech\base\Module
+class Module extends \phuongdev89\base\Module
 {
     /**
      * @var string default folder which will be used to upload resource
